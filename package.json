@@ -1,0 +1,13 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "xrpl": "4.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
